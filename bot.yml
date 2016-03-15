@@ -1,6 +1,6 @@
 name: Beepboop Starterbot
 description: A simple Ruby bot starter for Beep Boop
-avatar: resources/avatar.png
+avatar: http://icons.iconarchive.com/icons/hopstarter/halloween-avatars/128/Casper-icon.png
 #background: resources/background.png
 #config:
 #  - name: OPTION
